@@ -1,0 +1,27 @@
+=== Saint du Jour Widget ===
+Contributors: lucdlb
+Donate link: http://www.arthos.fr/
+Tags: saint, day, catholicism, 
+Requires at least: 4.2.1
+Tested up to: 4.2.1
+Stable tag: 4.2
+License: GPLv2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+
+Displays the catholic Saint of the day.
+
+== Description ==
+
+This widget displays the catholic Saint of the day / readings of the day / feast of the day. Free service provided by Evangelizo.org.
+
+== Installation ==
+
+1. Upload `saint-du-jour-widget.zip` through the Add Plugins menu in WordPress.
+2. Activate the plugin through the 'Plugins' menu in WordPress
+3. Choose your options in the Widgets menu.
+
+
+== Changelog ==
+
+= 1.0 =
+First version
