@@ -34,7 +34,7 @@ class WP_Widget_Saint_du_Jour extends WP_Widget {
 		if( ! empty( $instance['title'] ) )
 			echo $args['before_title'] . apply_filters( 'widget_title', $instance['title'] ) . $args['after_title'];
 
-		$date 		= date( 'Ymd' );
+		$date 		= date_i18n( 'Ymd' ); 
 		$type 		= ( $instance['type'] 		!= '' ) ? esc_attr( $instance['type'] ): '';
 		$lang 		= ( $instance['lang'] 		!= '' ) ? esc_attr( $instance['lang'] ): '';
 		$cont 		= ( $instance['content'] 	!= '' ) ? esc_attr( $instance['content'] ): '';

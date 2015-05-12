@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Saint du Jour Widget\n"
-"POT-Creation-Date: 2015-04-29 01:03+0100\n"
-"PO-Revision-Date: 2015-04-29 01:03+0100\n"
+"POT-Creation-Date: 2015-05-01 12:18+0100\n"
+"PO-Revision-Date: 2015-05-01 12:18+0100\n"
 "Last-Translator: Luc Delaborde <taliesinpenbardd@gmail.com>\n"
 "Language-Team: Luc Delaborde <contact@arthos.fr>\n"
 "Language: fr_FR\n"
@@ -24,7 +24,7 @@ msgstr "Saint du Jour Reloaded"
 msgid "Displays the Saint of the day."
 msgstr "Affiche le saint du jour."
 
-#: ../saint-du-jour-widget.php:61
+#: ../saint-du-jour-widget.php:62
 msgid ""
 "Free service provided by <a href=\"http://www.evangelizo.org/\" target="
 "\"_blank\">Evangelizo.org</a>."
@@ -32,170 +32,170 @@ msgstr ""
 "Service fourni gratuitement par <a href=\"http://www.evangelizo.org/\" "
 "target=\"_blank\">Evangelizo.org</a>."
 
-#: ../saint-du-jour-widget.php:81
+#: ../saint-du-jour-widget.php:83
 msgid "Title:"
 msgstr "Titre :"
 
-#: ../saint-du-jour-widget.php:90
+#: ../saint-du-jour-widget.php:92
 msgid "Type:"
 msgstr "Type :"
 
-#: ../saint-du-jour-widget.php:94
+#: ../saint-du-jour-widget.php:96
 msgid "The Saint of the day, w/ link to life"
 msgstr "Le saint du jour, avec un lien vers sa vie."
 
-#: ../saint-du-jour-widget.php:95
+#: ../saint-du-jour-widget.php:97
 msgid "The feast of the day, w/ link to explanation"
 msgstr "La fête du jour, avec un lien vers l'explication."
 
-#: ../saint-du-jour-widget.php:96
+#: ../saint-du-jour-widget.php:98
 msgid "Liturgic title"
 msgstr "Titre liturgique"
 
-#: ../saint-du-jour-widget.php:97
+#: ../saint-du-jour-widget.php:99
 msgid "Long title of the reading (content mandatory)"
 msgstr "Titre long de la lecture (Contenu obligatoire)"
 
-#: ../saint-du-jour-widget.php:98
+#: ../saint-du-jour-widget.php:100
 msgid "Short title of the reading (content mandatory)"
 msgstr "Titre court de la lecture (Contenu obligatoire)"
 
-#: ../saint-du-jour-widget.php:99
+#: ../saint-du-jour-widget.php:101
 msgid "Text of the reading (content mandatory)"
 msgstr "Texte de la lecture (Contenu obligatoire)"
 
-#: ../saint-du-jour-widget.php:100
+#: ../saint-du-jour-widget.php:102
 msgid "All the readings of the day (content mandatory)"
 msgstr "Toutes les lectures du jour (Contenu obligatoire)"
 
-#: ../saint-du-jour-widget.php:101
+#: ../saint-du-jour-widget.php:103
 msgid "Title of the commentary"
 msgstr "Titre du commentaire"
 
-#: ../saint-du-jour-widget.php:102
+#: ../saint-du-jour-widget.php:104
 msgid "Author of the commentary"
 msgstr "Auteur du commentaire"
 
-#: ../saint-du-jour-widget.php:103
+#: ../saint-du-jour-widget.php:105
 msgid "Source of the commentary"
 msgstr "Source du commentaire"
 
-#: ../saint-du-jour-widget.php:104
+#: ../saint-du-jour-widget.php:106
 msgid "Text of the commentary"
 msgstr "Texte du commentaire"
 
-#: ../saint-du-jour-widget.php:120
+#: ../saint-du-jour-widget.php:122
 msgid "Choose what kind of information you want to display."
 msgstr "Choisissez le type d'information que vous voulez afficher."
 
-#: ../saint-du-jour-widget.php:123
+#: ../saint-du-jour-widget.php:125
 msgid "Lang:"
 msgstr "Langue :"
 
-#: ../saint-du-jour-widget.php:128
+#: ../saint-du-jour-widget.php:130
 msgid "American-US language and Roman calendar Ordinary form"
 msgstr "Anglais US / rit ordinaire du calendrier romain"
 
-#: ../saint-du-jour-widget.php:129
+#: ../saint-du-jour-widget.php:131
 msgid "Arabic language and Roman calendar Ordinary form"
 msgstr "Arabe / rit ordinaire du calendrier romain"
 
-#: ../saint-du-jour-widget.php:130
+#: ../saint-du-jour-widget.php:132
 msgid "German language and Roman calendar Ordinary form"
 msgstr "Allemand / rit ordinaire du calendrier romain"
 
-#: ../saint-du-jour-widget.php:131
+#: ../saint-du-jour-widget.php:133
 msgid "French language and Roman calendar Ordinary form"
 msgstr "Français / rit ordinaire du calendrier romain"
 
-#: ../saint-du-jour-widget.php:132
+#: ../saint-du-jour-widget.php:134
 msgid "Greek (Hellenic) language and Roman calendar Ordinary form"
 msgstr "Grec (Hellène) / rit ordinaire du calendrier romain"
 
-#: ../saint-du-jour-widget.php:133
+#: ../saint-du-jour-widget.php:135
 msgid "Italian language and Roman calendar Ordinary form"
 msgstr "Italien / rit ordinaire du calendrier romain"
 
-#: ../saint-du-jour-widget.php:134
+#: ../saint-du-jour-widget.php:136
 msgid "Malagasy language and Roman calendar Ordinary form"
 msgstr "Malgache / rit ordinaire du calendrier romain"
 
-#: ../saint-du-jour-widget.php:135
+#: ../saint-du-jour-widget.php:137
 msgid "Dutch language and Roman calendar Ordinary form"
 msgstr "Hollandais / rit ordinaire du calendrier romain"
 
-#: ../saint-du-jour-widget.php:136
+#: ../saint-du-jour-widget.php:138
 msgid "Polish language and Roman calendar Ordinary form"
 msgstr "Polonais / rit ordinaire du calendrier romain"
 
-#: ../saint-du-jour-widget.php:137
+#: ../saint-du-jour-widget.php:139
 msgid "Portuguese language and Roman calendar Ordinary form"
 msgstr "Portugais / rit ordinaire du calendrier romain"
 
-#: ../saint-du-jour-widget.php:138
+#: ../saint-du-jour-widget.php:140
 msgid "Spanish language and Roman calendar Ordinary form"
 msgstr "Espagnol / rit ordinaire du calendrier romain"
 
-#: ../saint-du-jour-widget.php:141
+#: ../saint-du-jour-widget.php:143
 msgid "Armenian language and Armenian calendar"
 msgstr "Arménien / calendrier arménien"
 
-#: ../saint-du-jour-widget.php:142
+#: ../saint-du-jour-widget.php:144
 msgid "Arabic language and Byzantine calendar"
 msgstr "Arabe / calendrier byzantin"
 
-#: ../saint-du-jour-widget.php:143
+#: ../saint-du-jour-widget.php:145
 msgid "Arabic language and Maronite calendar"
 msgstr "Arabe / calendrier maronite"
 
-#: ../saint-du-jour-widget.php:144
+#: ../saint-du-jour-widget.php:146
 msgid "French language and Roman extraordinary calendar"
 msgstr "Français / calendrier romain extraordinaire"
 
-#: ../saint-du-jour-widget.php:145
+#: ../saint-du-jour-widget.php:147
 msgid "American-US language and Roman extraordinary calendar"
 msgstr "Anglais US / calendrier romain extraordinaire"
 
-#: ../saint-du-jour-widget.php:171
+#: ../saint-du-jour-widget.php:173
 msgid "Choose the language you want to use (and the form, if available)."
 msgstr ""
 "Choisissez la langue que vous voulez utiliser (et le rit, si disponible)."
 
-#: ../saint-du-jour-widget.php:174
+#: ../saint-du-jour-widget.php:176
 msgid "Content:"
 msgstr "Contenu :"
 
-#: ../saint-du-jour-widget.php:179
+#: ../saint-du-jour-widget.php:181
 msgid "First lecture"
 msgstr "Première lecture"
 
-#: ../saint-du-jour-widget.php:180
+#: ../saint-du-jour-widget.php:182
 msgid "Psalm"
 msgstr "Psaume"
 
-#: ../saint-du-jour-widget.php:181
+#: ../saint-du-jour-widget.php:183
 msgid "Second lecture"
 msgstr "Deuxième lecture"
 
-#: ../saint-du-jour-widget.php:182
+#: ../saint-du-jour-widget.php:184
 msgid "Gospel"
 msgstr "Évangile"
 
-#: ../saint-du-jour-widget.php:185
+#: ../saint-du-jour-widget.php:187
 msgid "Epistle"
 msgstr "Épître"
 
-#: ../saint-du-jour-widget.php:211
+#: ../saint-du-jour-widget.php:213
 msgid "Choose the content you want, in case you chose a \"Reading\" type."
 msgstr ""
 "Choisissez le contenu que vous voulez, si vous avez choisie un type \"Lecture"
 "\"."
 
-#: ../saint-du-jour-widget.php:214
+#: ../saint-du-jour-widget.php:216
 msgid "Advertising:"
 msgstr "Publicité :"
 
-#: ../saint-du-jour-widget.php:220
+#: ../saint-du-jour-widget.php:222
 msgid ""
 "Wanna let your visitors know where you got that information ? Check this and "
 "there'll be a link to <a href=\"http://www.evangelizo.org/\" target=\"_blank"
