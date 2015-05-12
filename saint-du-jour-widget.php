@@ -3,7 +3,7 @@
 Plugin Name: Saint du jour Widget
 Plugin URI: http://www.arthos.fr
 Description: Displays the Saint of the day in a widget
-Version: 1.0
+Version: 1.1
 Author: Luc Delaborde
 Author URI: http://www.arthos.fr
 License: GPL2
